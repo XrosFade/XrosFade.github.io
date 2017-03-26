@@ -16,7 +16,7 @@ String userName = (String)request.getAttribute("userName");
 <head>
 <script type="text/javascript" src="../lib/jquery-3.2.0.js"></script>
 
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>User Recently Game</title>
 </head>
 <body>
